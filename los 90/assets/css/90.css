@@ -1,0 +1,42 @@
+
+body{
+    font-family: Arial, Helvetica, Sans-serif;
+    color: white;
+    background-color: rgb(200, 64, 151);
+    font-family:url("the-saxibrush/theSaxibrush.ttf");
+    color:#f12933;
+    background-image:url('../../html/90.png');
+}
+
+@font-face {
+    font-family:theSaxibrush;
+    src: url(sansation_light.woff);
+  }
+  
+  div {
+    font-family:theSaxibrush;
+  }
+h1{
+    font-family:url("../../../html/theSaxibrush.ttf");
+    color:#ec212b;
+    background-image:url('../../html/films.jpg');
+}
+h4{
+    font-family:url("../../../html/theSaxibrush.ttf");
+    color:#ec212b;
+    background-image:url('../../html/films.jpg');
+}
+p{
+    color:blue;
+}
+div{
+    
+    float: left;
+    width: 100px;
+    border: 4px solid blue;
+    background: #d7bde2 ;
+
+}
+.color-blue{
+    color: blue;
+}
